@@ -1,0 +1,23 @@
+{
+  "name": "discord-assistant-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord.js": "^13.1.0",
+    "glob": "^7.1.7",
+    "mongoose": "^6.0.3",
+    "snakecord": "^1.0.9",
+    "ultrax": "^1.9.0"
+  },
+  "devDependencies": {
+    "node": "^16.6.1"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
